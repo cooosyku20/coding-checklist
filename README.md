@@ -1,47 +1,25 @@
 # coding-checklist
 
-This repository contains a collection of checklists for software development best practices, focusing on Python development and MCP (Model Context Protocol) server implementation.
+This repository contains a collection of checklists for software development best practices, focusing on Python and Go development, code optimization, and MCP (Model Context Protocol) server implementation.
 
 ## Available Checklists
 
 ### Python Coding Standards Checklist
 
-A comprehensive checklist covering Python coding best practices, including:
-- Pythonic coding style and PEP 8 compliance
-- Code structure and design principles
-- Error handling and logging
-- Data and state management
-- Performance and resource management
-- Documentation standards
-- Security implementation
-- Testing methodology
-- Static analysis and formatting tools
-
-Use this checklist for code reviews, setting project standards, or self-assessment of Python code quality.
+A concise guide covering Python best practices including PEP 8 compliance, code structure, error handling, documentation, testing, and security practices.
 
 ### Python Code Optimization Checklist
 
-A detailed guide to improving Python code performance, covering:
-- Algorithm and data structure optimization
-- Basic code optimizations
-- Effective use of built-in functions and standard libraries
-- Memory efficiency techniques
-- Leveraging external libraries like NumPy, Pandas, Cython
-- Profiling and performance measurement
-- Parallel and asynchronous processing
-- Advanced optimization techniques
+A practical guide for improving Python code performance, covering algorithm optimization, data structures, memory efficiency, profiling, and parallel processing techniques.
 
-Use this checklist when optimizing Python applications for better performance.
+### Go Coding Standards Checklist
 
-### MCP (Model Context Protocol) Server Checklist
+A comprehensive guide for writing idiomatic Go code, covering naming conventions, error handling, code structure, testing practices, and security considerations.
 
-A specification compliance checklist for implementing MCP servers, covering:
-- Protocol version and profile requirements
-- Basic MCP protocol compliance
-- Core functionality for context provision
-- Security and access control
-- Technical implementation elements
-- Protocol validation and conformance
+### Go Code Optimization Checklist
 
-Use this checklist when developing or evaluating servers that implement the Model Context Protocol for AI systems. 
+A systematic guide for optimizing Go applications, including algorithm selection, memory management, concurrency patterns, profiling techniques, and benchmarking.
 
+### MCP (Model Context Protocol) Requirements Checklist
+
+Verification checklist for servers implementing the Model Context Protocol, covering protocol compliance, authentication, resource provision, and tool execution capabilities.
